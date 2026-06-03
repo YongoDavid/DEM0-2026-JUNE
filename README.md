@@ -10,3 +10,5 @@ TKV affiliate feature and admin dash done, more improvements to add to the dash 
 
 03 JUNE 2026
 New day, same grind
+Still yet to push the TKV features to production.
+IDEC staging tests complete.
